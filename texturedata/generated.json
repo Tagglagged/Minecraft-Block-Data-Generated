@@ -55,6 +55,10 @@
         "BackTop": "minecraft:furnace_top",
         "FrontTop": "minecraft:furnace_top"
     },
+    "minecraft:pointed_dripstone_up_frustum": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_up_frustum"
+    },
     "minecraft:acacia_door_bottom_right_open": {
         "parent": "minecraft:block/door_bottom_right_open",
         "LeftBottom": "minecraft:acacia_door_bottom",
@@ -167,6 +171,10 @@
         "Front": "minecraft:stripped_bamboo_block_top",
         "Back": "minecraft:stripped_bamboo_block_top"
     },
+    "minecraft:dandelion": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dandelion"
+    },
     "minecraft:copper_door_top_right_open": {
         "parent": "minecraft:block/door_top_right_open",
         "LeftBottom": "minecraft:copper_door_bottom",
@@ -234,6 +242,10 @@
     "minecraft:mangrove_trapdoor_top": {
         "parent": "minecraft:block/template_orientable_trapdoor_top",
         "all": "minecraft:mangrove_trapdoor"
+    },
+    "minecraft:cobweb": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cobweb"
     },
     "minecraft:candle_cake": {
         "parent": "minecraft:block/template_cake_with_candle",
@@ -316,6 +328,10 @@
         "Bottom": "minecraft:cherry_leaves",
         "Front": "minecraft:cherry_leaves",
         "Back": "minecraft:cherry_leaves"
+    },
+    "minecraft:twisting_vines": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:twisting_vines"
     },
     "minecraft:oak_wood": {
         "parent": "minecraft:block/cube_column",
@@ -730,6 +746,10 @@
         "parent": "minecraft:block/fence_inventory",
         "all": "minecraft:dark_oak_planks"
     },
+    "minecraft:cherry_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cherry_sapling"
+    },
     "minecraft:crimson_pressure_plate_down": {
         "parent": "minecraft:block/pressure_plate_down",
         "all": "minecraft:crimson_planks"
@@ -751,6 +771,10 @@
         "BackTop": "minecraft:oak_door_top",
         "FrontTop": "minecraft:oak_door_top"
     },
+    "minecraft:pointed_dripstone_down_base": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_down_base"
+    },
     "minecraft:warped_door_bottom_right": {
         "parent": "minecraft:block/door_bottom_right",
         "LeftBottom": "minecraft:warped_door_bottom",
@@ -763,6 +787,10 @@
         "TopTop": "minecraft:warped_door_top",
         "BackTop": "minecraft:warped_door_top",
         "FrontTop": "minecraft:warped_door_top"
+    },
+    "minecraft:cave_vines": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cave_vines"
     },
     "minecraft:birch_door_top_right_open": {
         "parent": "minecraft:block/door_top_right_open",
@@ -913,6 +941,10 @@
     "minecraft:structure_block": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:structure_block"
+    },
+    "minecraft:azure_bluet": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:azure_bluet"
     },
     "minecraft:mossy_cobblestone_slab_top": {
         "parent": "minecraft:block/slab_top",
@@ -1214,6 +1246,10 @@
         "BackTop": "minecraft:copper_door_top",
         "FrontTop": "minecraft:copper_door_top"
     },
+    "minecraft:lily_of_the_valley": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:lily_of_the_valley"
+    },
     "minecraft:tuff_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:tuff",
@@ -1337,6 +1373,10 @@
         "Front": "minecraft:dark_oak_log",
         "Back": "minecraft:dark_oak_log"
     },
+    "minecraft:cactus_flower": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cactus_flower"
+    },
     "minecraft:cherry_door_bottom_right_open": {
         "parent": "minecraft:block/door_bottom_right_open",
         "LeftBottom": "minecraft:cherry_door_bottom",
@@ -1405,6 +1445,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:andesite"
     },
+    "minecraft:lilac_top": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:lilac_top"
+    },
     "minecraft:end_stone": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:end_stone"
@@ -1469,6 +1513,14 @@
         "BackTop": "minecraft:mossy_cobblestone",
         "FrontTop": "minecraft:mossy_cobblestone"
     },
+    "minecraft:sulfur_spike_up_base": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_up_base"
+    },
+    "minecraft:rose_bush_bottom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:rose_bush_bottom"
+    },
     "minecraft:oxidized_copper_bulb": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:oxidized_copper_bulb"
@@ -1476,6 +1528,10 @@
     "minecraft:redstone_block": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:redstone_block"
+    },
+    "minecraft:pointed_dripstone_down_frustum": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_down_frustum"
     },
     "minecraft:spruce_door_top_right": {
         "parent": "minecraft:block/door_top_right",
@@ -1659,6 +1715,10 @@
         "Bottom": "minecraft:brown_glazed_terracotta",
         "Front": "minecraft:brown_glazed_terracotta",
         "Back": "minecraft:brown_glazed_terracotta"
+    },
+    "minecraft:short_grass": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:short_grass"
     },
     "minecraft:tuff_stairs": {
         "parent": "minecraft:block/stairs",
@@ -1867,6 +1927,10 @@
         "parent": "minecraft:block/template_trapdoor_top",
         "all": "minecraft:iron_trapdoor"
     },
+    "minecraft:pale_hanging_moss": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:pale_hanging_moss"
+    },
     "minecraft:orange_wool": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:orange_wool"
@@ -1984,6 +2048,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:bamboo_mosaic"
     },
+    "minecraft:warped_fungus": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:warped_fungus"
+    },
     "minecraft:warped_button": {
         "parent": "minecraft:block/button",
         "all": "minecraft:warped_planks"
@@ -2005,6 +2073,10 @@
         "Bottom": "minecraft:stripped_birch_log_top",
         "Front": "minecraft:stripped_birch_log",
         "Back": "minecraft:stripped_birch_log"
+    },
+    "minecraft:bamboo_sapling": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:bamboo_stage0"
     },
     "minecraft:chiseled_tuff": {
         "parent": "minecraft:block/cube_column",
@@ -2237,6 +2309,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:exposed_copper_bulb_lit"
     },
+    "minecraft:cave_vines_plant_lit": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cave_vines_plant_lit"
+    },
     "minecraft:brick_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:bricks",
@@ -2383,6 +2459,10 @@
     "minecraft:crying_obsidian": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:crying_obsidian"
+    },
+    "minecraft:wither_rose": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:wither_rose"
     },
     "minecraft:acacia_button": {
         "parent": "minecraft:block/button",
@@ -2599,6 +2679,10 @@
         "BackTop": "minecraft:cake_top",
         "FrontTop": "minecraft:cake_top"
     },
+    "minecraft:cave_vines_plant": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cave_vines_plant"
+    },
     "minecraft:chiseled_quartz_block": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:chiseled_quartz_block",
@@ -2615,6 +2699,10 @@
     "minecraft:polished_deepslate": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:polished_deepslate"
+    },
+    "minecraft:sulfur_spike_up_frustum": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_up_frustum"
     },
     "minecraft:stone_brick_stairs_inner": {
         "parent": "minecraft:block/inner_stairs",
@@ -2770,6 +2858,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:nether_bricks"
     },
+    "minecraft:acacia_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:acacia_sapling"
+    },
     "minecraft:diorite": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:diorite"
@@ -2828,6 +2920,14 @@
         "Front": "minecraft:stripped_bamboo_block",
         "Back": "minecraft:stripped_bamboo_block"
     },
+    "minecraft:peony_top": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:peony_top"
+    },
+    "minecraft:sulfur_spike_down_middle": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_down_middle"
+    },
     "minecraft:mangrove_trapdoor_bottom": {
         "parent": "minecraft:block/template_orientable_trapdoor_bottom",
         "all": "minecraft:mangrove_trapdoor"
@@ -2877,6 +2977,10 @@
     "minecraft:crimson_button": {
         "parent": "minecraft:block/button",
         "all": "minecraft:crimson_planks"
+    },
+    "minecraft:crimson_fungus": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:crimson_fungus"
     },
     "minecraft:tuff_brick_stairs_inner": {
         "parent": "minecraft:block/inner_stairs",
@@ -3033,6 +3137,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:yellow_terracotta"
     },
+    "minecraft:tall_grass_top": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:tall_grass_top"
+    },
     "minecraft:barrel_open": {
         "parent": "minecraft:block/cube_bottom_top",
         "LeftBottom": "minecraft:barrel_bottom",
@@ -3061,6 +3169,10 @@
     "minecraft:spruce_trapdoor_open": {
         "parent": "minecraft:block/template_orientable_trapdoor_open",
         "all": "minecraft:spruce_trapdoor"
+    },
+    "minecraft:sulfur_spike_down_tip": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_down_tip"
     },
     "minecraft:weathered_copper_door_top_right": {
         "parent": "minecraft:block/door_top_right",
@@ -3131,6 +3243,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:copper_bulb_powered"
     },
+    "minecraft:torchflower": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:torchflower"
+    },
     "minecraft:birch_fence_side": {
         "parent": "minecraft:block/fence_side",
         "all": "minecraft:birch_planks"
@@ -3195,6 +3311,10 @@
         "Bottom": "minecraft:repeating_command_block_side",
         "Front": "minecraft:repeating_command_block_front",
         "Back": "minecraft:repeating_command_block_back"
+    },
+    "minecraft:sweet_berry_bush_stage1": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:sweet_berry_bush_stage1"
     },
     "minecraft:oxidized_copper_grate": {
         "parent": "minecraft:block/cube_all",
@@ -3276,6 +3396,10 @@
         "parent": "minecraft:block/template_single_face",
         "all": "minecraft:red_mushroom_block"
     },
+    "minecraft:fern": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:fern"
+    },
     "minecraft:dark_oak_stairs": {
         "parent": "minecraft:block/stairs",
         "LeftBottom": "minecraft:dark_oak_planks",
@@ -3313,6 +3437,10 @@
     "minecraft:acacia_fence_gate_wall_open": {
         "parent": "minecraft:block/template_fence_gate_wall_open",
         "all": "minecraft:acacia_planks"
+    },
+    "minecraft:sulfur_spike_up_middle": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_up_middle"
     },
     "minecraft:mossy_stone_bricks": {
         "parent": "minecraft:block/cube_all",
@@ -3450,6 +3578,10 @@
         "TopTop": "minecraft:trial_spawner_top_inactive_ominous",
         "BackTop": "minecraft:trial_spawner_top_inactive_ominous",
         "FrontTop": "minecraft:trial_spawner_top_inactive_ominous"
+    },
+    "minecraft:closed_eyeblossom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:closed_eyeblossom"
     },
     "minecraft:tuff_slab_top": {
         "parent": "minecraft:block/slab_top",
@@ -3735,6 +3867,10 @@
         "parent": "minecraft:block/fence_inventory",
         "all": "minecraft:pale_oak_planks"
     },
+    "minecraft:kelp_plant": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:kelp_plant"
+    },
     "minecraft:diamond_block": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:diamond_block"
@@ -3751,6 +3887,14 @@
         "Bottom": "minecraft:stripped_oak_log",
         "Front": "minecraft:stripped_oak_log",
         "Back": "minecraft:stripped_oak_log"
+    },
+    "minecraft:sulfur_spike_up_tip": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_up_tip"
+    },
+    "minecraft:lilac_bottom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:lilac_bottom"
     },
     "minecraft:sulfur_slab": {
         "parent": "minecraft:block/slab",
@@ -3829,6 +3973,10 @@
         "parent": "minecraft:block/template_orientable_trapdoor_bottom",
         "all": "minecraft:crimson_trapdoor"
     },
+    "minecraft:hanging_roots": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:hanging_roots"
+    },
     "minecraft:bamboo_fence_side_south": {
         "parent": "minecraft:block/custom_fence_side_south",
         "all": "minecraft:bamboo_fence"
@@ -3906,6 +4054,10 @@
         "parent": "minecraft:block/button_inventory",
         "all": "minecraft:jungle_planks"
     },
+    "minecraft:medium_amethyst_bud": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:medium_amethyst_bud"
+    },
     "minecraft:warped_fence_side": {
         "parent": "minecraft:block/fence_side",
         "all": "minecraft:warped_planks"
@@ -3957,6 +4109,10 @@
         "BackTop": "minecraft:red_nether_bricks",
         "FrontTop": "minecraft:red_nether_bricks"
     },
+    "minecraft:spruce_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:spruce_sapling"
+    },
     "minecraft:verdant_froglight": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:verdant_froglight_side",
@@ -3978,6 +4134,10 @@
         "TopTop": "minecraft:dark_oak_planks",
         "BackTop": "minecraft:dark_oak_planks",
         "FrontTop": "minecraft:dark_oak_planks"
+    },
+    "minecraft:pointed_dripstone_down_tip_merge": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_down_tip_merge"
     },
     "minecraft:dark_oak_pressure_plate_down": {
         "parent": "minecraft:block/pressure_plate_down",
@@ -4037,6 +4197,10 @@
     "minecraft:cyan_wool": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:cyan_wool"
+    },
+    "minecraft:poppy": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:poppy"
     },
     "minecraft:jungle_fence_gate_open": {
         "parent": "minecraft:block/template_fence_gate_open",
@@ -4124,6 +4288,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:dead_tube_coral_block"
     },
+    "minecraft:oak_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:oak_sapling"
+    },
     "minecraft:cobbled_deepslate_stairs": {
         "parent": "minecraft:block/stairs",
         "LeftBottom": "minecraft:cobbled_deepslate",
@@ -4136,6 +4304,10 @@
         "TopTop": "minecraft:cobbled_deepslate",
         "BackTop": "minecraft:cobbled_deepslate",
         "FrontTop": "minecraft:cobbled_deepslate"
+    },
+    "minecraft:weeping_vines": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:weeping_vines"
     },
     "minecraft:end_stone_brick_stairs": {
         "parent": "minecraft:block/stairs",
@@ -4369,6 +4541,10 @@
         "Front": "minecraft:creaking_heart",
         "Back": "minecraft:creaking_heart"
     },
+    "minecraft:pale_hanging_moss_tip": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:pale_hanging_moss_tip"
+    },
     "minecraft:pale_oak_fence_post": {
         "parent": "minecraft:block/fence_post",
         "all": "minecraft:pale_oak_planks"
@@ -4406,6 +4582,10 @@
         "TopTop": "minecraft:dark_prismarine",
         "BackTop": "minecraft:dark_prismarine",
         "FrontTop": "minecraft:dark_prismarine"
+    },
+    "minecraft:weeping_vines_plant": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:weeping_vines_plant"
     },
     "minecraft:note_block": {
         "parent": "minecraft:block/cube_all",
@@ -4582,6 +4762,14 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:nether_gold_ore"
     },
+    "minecraft:sugar_cane": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:sugar_cane"
+    },
+    "minecraft:dead_fire_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_fire_coral"
+    },
     "minecraft:suspicious_gravel_0": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:suspicious_gravel_0"
@@ -4728,6 +4916,10 @@
         "BackTop": "minecraft:polished_sulfur",
         "FrontTop": "minecraft:polished_sulfur"
     },
+    "minecraft:fire_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:fire_coral"
+    },
     "minecraft:respawn_anchor_1": {
         "parent": "minecraft:block/cube_bottom_top",
         "LeftBottom": "minecraft:respawn_anchor_bottom",
@@ -4798,6 +4990,10 @@
         "BackTop": "minecraft:birch_planks",
         "FrontTop": "minecraft:birch_planks"
     },
+    "minecraft:sweet_berry_bush_stage0": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:sweet_berry_bush_stage0"
+    },
     "minecraft:polished_granite": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:polished_granite"
@@ -4848,6 +5044,10 @@
     "minecraft:dark_oak_button_pressed": {
         "parent": "minecraft:block/button_pressed",
         "all": "minecraft:dark_oak_planks"
+    },
+    "minecraft:sulfur_spike_up_tip_merge": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_up_tip_merge"
     },
     "minecraft:purpur_pillar_horizontal": {
         "parent": "minecraft:block/cube_column_horizontal",
@@ -5163,6 +5363,10 @@
         "BackTop": "minecraft:exposed_cut_copper",
         "FrontTop": "minecraft:exposed_cut_copper"
     },
+    "minecraft:large_fern_bottom": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:large_fern_bottom"
+    },
     "minecraft:smooth_quartz_stairs": {
         "parent": "minecraft:block/stairs",
         "LeftBottom": "minecraft:quartz_block_bottom",
@@ -5176,6 +5380,10 @@
         "BackTop": "minecraft:quartz_block_bottom",
         "FrontTop": "minecraft:quartz_block_bottom"
     },
+    "minecraft:brain_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:brain_coral"
+    },
     "minecraft:crimson_hyphae": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:crimson_stem",
@@ -5188,6 +5396,10 @@
     "minecraft:oxidized_copper_chain": {
         "parent": "minecraft:block/template_chain",
         "all": "minecraft:oxidized_copper_chain"
+    },
+    "minecraft:jungle_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:jungle_sapling"
     },
     "minecraft:jungle_log_horizontal": {
         "parent": "minecraft:block/cube_column_horizontal",
@@ -5381,6 +5593,10 @@
         "BackTop": "minecraft:crimson_door_top",
         "FrontTop": "minecraft:crimson_door_top"
     },
+    "minecraft:pointed_dripstone_down_middle": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_down_middle"
+    },
     "minecraft:bee_nest_empty": {
         "parent": "minecraft:block/orientable_with_bottom",
         "LeftBottom": "minecraft:bee_nest_bottom",
@@ -5505,6 +5721,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:copper_ore"
     },
+    "minecraft:large_amethyst_bud": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:large_amethyst_bud"
+    },
     "minecraft:mangrove_fence_gate_open": {
         "parent": "minecraft:block/template_fence_gate_open",
         "all": "minecraft:mangrove_planks"
@@ -5513,6 +5733,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:moss_block"
     },
+    "minecraft:sweet_berry_bush_stage3": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:sweet_berry_bush_stage3"
+    },
     "minecraft:mangrove_fence_gate_wall_open": {
         "parent": "minecraft:block/template_fence_gate_wall_open",
         "all": "minecraft:mangrove_planks"
@@ -5520,6 +5744,10 @@
     "minecraft:cherry_trapdoor_bottom": {
         "parent": "minecraft:block/template_orientable_trapdoor_bottom",
         "all": "minecraft:cherry_trapdoor"
+    },
+    "minecraft:pale_oak_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:pale_oak_sapling"
     },
     "minecraft:oak_fence_inventory": {
         "parent": "minecraft:block/fence_inventory",
@@ -5675,6 +5903,10 @@
         "BackTop": "minecraft:stone_bricks",
         "FrontTop": "minecraft:stone_bricks"
     },
+    "minecraft:pointed_dripstone_up_base": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_up_base"
+    },
     "minecraft:iron_ore": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:iron_ore"
@@ -5820,6 +6052,10 @@
         "BackTop": "minecraft:cinnabar_bricks",
         "FrontTop": "minecraft:cinnabar_bricks"
     },
+    "minecraft:tall_grass_bottom": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:tall_grass_bottom"
+    },
     "minecraft:cut_red_sandstone": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:cut_red_sandstone",
@@ -5862,6 +6098,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:wet_sponge"
     },
+    "minecraft:allium": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:allium"
+    },
     "minecraft:sandstone_slab_top": {
         "parent": "minecraft:block/slab_top",
         "LeftBottom": "minecraft:sandstone_bottom",
@@ -5892,6 +6132,10 @@
         "parent": "minecraft:block/template_fence_gate",
         "all": "minecraft:warped_planks"
     },
+    "minecraft:cornflower": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cornflower"
+    },
     "minecraft:diamond_ore": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:diamond_ore"
@@ -5921,6 +6165,10 @@
         "TopTop": "minecraft:sandstone_top",
         "BackTop": "minecraft:sandstone_top",
         "FrontTop": "minecraft:sandstone_top"
+    },
+    "minecraft:kelp": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:kelp"
     },
     "minecraft:pink_candle_cake": {
         "parent": "minecraft:block/template_cake_with_candle",
@@ -6161,6 +6409,10 @@
         "TopTop": "minecraft:bamboo_door_top",
         "BackTop": "minecraft:bamboo_door_top",
         "FrontTop": "minecraft:bamboo_door_top"
+    },
+    "minecraft:cave_vines_lit": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:cave_vines_lit"
     },
     "minecraft:vault_ejecting_reward": {
         "parent": "minecraft:block/template_vault",
@@ -6591,6 +6843,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:black_concrete"
     },
+    "minecraft:golden_dandelion": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:golden_dandelion"
+    },
     "minecraft:nether_brick_stairs": {
         "parent": "minecraft:block/stairs",
         "LeftBottom": "minecraft:nether_bricks",
@@ -6626,6 +6882,10 @@
         "BackTop": "minecraft:bamboo_door_top",
         "FrontTop": "minecraft:bamboo_door_top"
     },
+    "minecraft:dead_brain_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_brain_coral"
+    },
     "minecraft:command_block_conditional": {
         "parent": "minecraft:block/template_command_block",
         "Left": "minecraft:command_block_conditional",
@@ -6659,6 +6919,10 @@
     "minecraft:oxidized_copper": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:oxidized_copper"
+    },
+    "minecraft:small_amethyst_bud": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:small_amethyst_bud"
     },
     "minecraft:bamboo_block_z": {
         "parent": "minecraft:block/cube_column_uv_locked_z",
@@ -6714,6 +6978,10 @@
         "TopTop": "minecraft:oxidized_copper_door_top",
         "BackTop": "minecraft:oxidized_copper_door_top",
         "FrontTop": "minecraft:oxidized_copper_door_top"
+    },
+    "minecraft:white_tulip": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:white_tulip"
     },
     "minecraft:polished_tuff_slab": {
         "parent": "minecraft:block/slab",
@@ -6847,6 +7115,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:yellow_concrete"
     },
+    "minecraft:red_mushroom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:red_mushroom"
+    },
     "minecraft:dark_oak_door_bottom_left": {
         "parent": "minecraft:block/door_bottom_left",
         "LeftBottom": "minecraft:dark_oak_door_bottom",
@@ -6897,6 +7169,10 @@
         "TopTop": "minecraft:dark_oak_door_top",
         "BackTop": "minecraft:dark_oak_door_top",
         "FrontTop": "minecraft:dark_oak_door_top"
+    },
+    "minecraft:bubble_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:bubble_coral"
     },
     "minecraft:exposed_cut_copper": {
         "parent": "minecraft:block/cube_all",
@@ -7128,9 +7404,17 @@
         "BackTop": "minecraft:polished_andesite",
         "FrontTop": "minecraft:polished_andesite"
     },
+    "minecraft:sunflower_bottom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:sunflower_bottom"
+    },
     "minecraft:oxidized_cut_copper": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:oxidized_cut_copper"
+    },
+    "minecraft:pointed_dripstone_down_tip": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_down_tip"
     },
     "minecraft:chiseled_bookshelf_occupied_slot_bottom_mid": {
         "parent": "minecraft:block/template_chiseled_bookshelf_slot_bottom_mid",
@@ -7239,6 +7523,10 @@
         "TopTop": "minecraft:jungle_door_top",
         "BackTop": "minecraft:jungle_door_top",
         "FrontTop": "minecraft:jungle_door_top"
+    },
+    "minecraft:pointed_dripstone_up_tip_merge": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_up_tip_merge"
     },
     "minecraft:stripped_jungle_log_horizontal": {
         "parent": "minecraft:block/cube_column_horizontal",
@@ -7436,6 +7724,10 @@
         "Front": "minecraft:spruce_leaves",
         "Back": "minecraft:spruce_leaves"
     },
+    "minecraft:large_fern_top": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:large_fern_top"
+    },
     "minecraft:deepslate_emerald_ore": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:deepslate_emerald_ore"
@@ -7503,6 +7795,10 @@
         "parent": "minecraft:block/template_trapdoor_bottom",
         "all": "minecraft:dark_oak_trapdoor"
     },
+    "minecraft:dead_bush": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_bush"
+    },
     "minecraft:jungle_wood": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:jungle_log",
@@ -7525,6 +7821,10 @@
         "BackTop": "minecraft:prismarine_bricks",
         "FrontTop": "minecraft:prismarine_bricks"
     },
+    "minecraft:sweet_berry_bush_stage2": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:sweet_berry_bush_stage2"
+    },
     "minecraft:chiseled_bookshelf_empty_slot_top_mid": {
         "parent": "minecraft:block/template_chiseled_bookshelf_slot_top_mid",
         "all": "minecraft:chiseled_bookshelf_empty"
@@ -7537,6 +7837,10 @@
         "Bottom": "minecraft:blue_glazed_terracotta",
         "Front": "minecraft:blue_glazed_terracotta",
         "Back": "minecraft:blue_glazed_terracotta"
+    },
+    "minecraft:crimson_roots": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:crimson_roots"
     },
     "minecraft:dark_oak_button": {
         "parent": "minecraft:block/button",
@@ -7593,6 +7897,10 @@
     "minecraft:spruce_fence_post": {
         "parent": "minecraft:block/fence_post",
         "all": "minecraft:spruce_planks"
+    },
+    "minecraft:pointed_dripstone_up_middle": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_up_middle"
     },
     "minecraft:spruce_door_top_left": {
         "parent": "minecraft:block/door_top_left",
@@ -7841,6 +8149,10 @@
         "BackTop": "minecraft:oxidized_copper_door_top",
         "FrontTop": "minecraft:oxidized_copper_door_top"
     },
+    "minecraft:dark_oak_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dark_oak_sapling"
+    },
     "minecraft:smooth_stone": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:smooth_stone"
@@ -7891,6 +8203,10 @@
         "TopTop": "minecraft:oak_door_top",
         "BackTop": "minecraft:oak_door_top",
         "FrontTop": "minecraft:oak_door_top"
+    },
+    "minecraft:dead_tube_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_tube_coral"
     },
     "minecraft:white_candle_cake_lit": {
         "parent": "minecraft:block/template_cake_with_candle",
@@ -8102,6 +8418,10 @@
         "parent": "minecraft:block/fence_inventory",
         "all": "minecraft:spruce_planks"
     },
+    "minecraft:torchflower_crop_stage0": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:torchflower_crop_stage0"
+    },
     "minecraft:cherry_door_top_right_open": {
         "parent": "minecraft:block/door_top_right_open",
         "LeftBottom": "minecraft:cherry_door_bottom",
@@ -8141,6 +8461,10 @@
         "BackTop": "minecraft:red_nether_bricks",
         "FrontTop": "minecraft:red_nether_bricks"
     },
+    "minecraft:blue_orchid": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:blue_orchid"
+    },
     "minecraft:oak_log": {
         "parent": "minecraft:block/cube_column",
         "Left": "minecraft:oak_log",
@@ -8158,6 +8482,10 @@
         "Bottom": "minecraft:birch_leaves",
         "Front": "minecraft:birch_leaves",
         "Back": "minecraft:birch_leaves"
+    },
+    "minecraft:tall_dry_grass": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:tall_dry_grass"
     },
     "minecraft:mangrove_door_bottom_right": {
         "parent": "minecraft:block/door_bottom_right",
@@ -8188,6 +8516,10 @@
         "TopTop": "minecraft:pale_oak_door_top",
         "BackTop": "minecraft:pale_oak_door_top",
         "FrontTop": "minecraft:pale_oak_door_top"
+    },
+    "minecraft:open_eyeblossom": {
+        "parent": "minecraft:block/cross_emissive",
+        "all": "minecraft:open_eyeblossom"
     },
     "minecraft:suspicious_sand_2": {
         "parent": "minecraft:block/cube_all",
@@ -8570,6 +8902,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:blue_concrete_powder"
     },
+    "minecraft:twisting_vines_plant": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:twisting_vines_plant"
+    },
     "minecraft:birch_fence_gate_wall": {
         "parent": "minecraft:block/template_fence_gate_wall",
         "all": "minecraft:birch_planks"
@@ -8602,6 +8938,10 @@
     "minecraft:weathered_copper_bulb_lit": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:weathered_copper_bulb_lit"
+    },
+    "minecraft:pointed_dripstone_up_tip": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:pointed_dripstone_up_tip"
     },
     "minecraft:warped_pressure_plate_down": {
         "parent": "minecraft:block/pressure_plate_down",
@@ -8727,6 +9067,10 @@
         "parent": "minecraft:block/template_chain",
         "all": "minecraft:weathered_copper_chain"
     },
+    "minecraft:warped_roots": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:warped_roots"
+    },
     "minecraft:end_stone_brick_slab_top": {
         "parent": "minecraft:block/slab_top",
         "LeftBottom": "minecraft:end_stone_bricks",
@@ -8752,6 +9096,10 @@
         "TopTop": "minecraft:vault_top_ominous",
         "BackTop": "minecraft:vault_top_ominous",
         "FrontTop": "minecraft:vault_top_ominous"
+    },
+    "minecraft:peony_bottom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:peony_bottom"
     },
     "minecraft:nether_quartz_ore": {
         "parent": "minecraft:block/cube_all",
@@ -8850,6 +9198,10 @@
         "parent": "minecraft:block/fence_side",
         "all": "minecraft:oak_planks"
     },
+    "minecraft:amethyst_cluster": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:amethyst_cluster"
+    },
     "minecraft:polished_diorite_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:polished_diorite",
@@ -8875,6 +9227,10 @@
     "minecraft:light_blue_wool": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:light_blue_wool"
+    },
+    "minecraft:tube_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:tube_coral"
     },
     "minecraft:polished_sulfur": {
         "parent": "minecraft:block/cube_all",
@@ -8905,6 +9261,10 @@
     "minecraft:sculk": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:sculk"
+    },
+    "minecraft:pink_tulip": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:pink_tulip"
     },
     "minecraft:tall_seagrass_top": {
         "parent": "minecraft:block/template_seagrass",
@@ -9116,6 +9476,10 @@
         "parent": "minecraft:block/button_pressed",
         "all": "minecraft:acacia_planks"
     },
+    "minecraft:orange_tulip": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:orange_tulip"
+    },
     "minecraft:iron_trapdoor_open": {
         "parent": "minecraft:block/template_trapdoor_open",
         "all": "minecraft:iron_trapdoor"
@@ -9310,6 +9674,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:glowstone"
     },
+    "minecraft:sulfur_spike_down_base": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_down_base"
+    },
     "minecraft:weathered_copper_grate": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:weathered_copper_grate"
@@ -9361,6 +9729,10 @@
         "BackTop": "minecraft:red_nether_bricks",
         "FrontTop": "minecraft:red_nether_bricks"
     },
+    "minecraft:horn_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:horn_coral"
+    },
     "minecraft:netherite_block": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:netherite_block"
@@ -9395,6 +9767,10 @@
         "BackTop": "minecraft:cinnabar",
         "FrontTop": "minecraft:cinnabar"
     },
+    "minecraft:dead_bubble_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_bubble_coral"
+    },
     "minecraft:orange_concrete": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:orange_concrete"
@@ -9424,6 +9800,10 @@
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:white_concrete_powder"
     },
+    "minecraft:short_dry_grass": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:short_dry_grass"
+    },
     "minecraft:smooth_stone_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:smooth_stone",
@@ -9449,6 +9829,10 @@
         "TopTop": "minecraft:warped_planks",
         "BackTop": "minecraft:warped_planks",
         "FrontTop": "minecraft:warped_planks"
+    },
+    "minecraft:sulfur_spike_down_frustum": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_down_frustum"
     },
     "minecraft:copper_bulb_lit_powered": {
         "parent": "minecraft:block/cube_all",
@@ -9480,6 +9864,10 @@
         "BackTop": "minecraft:andesite",
         "FrontTop": "minecraft:andesite"
     },
+    "minecraft:bush": {
+        "parent": "minecraft:block/tinted_cross",
+        "all": "minecraft:bush"
+    },
     "minecraft:petrified_oak_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:oak_planks",
@@ -9500,6 +9888,10 @@
     "minecraft:chorus_flower_dead": {
         "parent": "minecraft:block/template_chorus_flower",
         "all": "minecraft:chorus_flower_dead"
+    },
+    "minecraft:birch_sapling": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:birch_sapling"
     },
     "minecraft:polished_andesite_stairs_inner": {
         "parent": "minecraft:block/inner_stairs",
@@ -9539,6 +9931,10 @@
     "minecraft:bamboo_trapdoor_open": {
         "parent": "minecraft:block/template_orientable_trapdoor_open",
         "all": "minecraft:bamboo_trapdoor"
+    },
+    "minecraft:oxeye_daisy": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:oxeye_daisy"
     },
     "minecraft:acacia_fence_gate_wall": {
         "parent": "minecraft:block/template_fence_gate_wall",
@@ -9697,6 +10093,10 @@
     "minecraft:oak_fence_gate_open": {
         "parent": "minecraft:block/template_fence_gate_open",
         "all": "minecraft:oak_planks"
+    },
+    "minecraft:brown_mushroom": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:brown_mushroom"
     },
     "minecraft:polished_tuff_stairs": {
         "parent": "minecraft:block/stairs",
@@ -9879,6 +10279,10 @@
         "parent": "minecraft:block/template_fence_gate_wall_open",
         "all": "minecraft:cherry_planks"
     },
+    "minecraft:rose_bush_top": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:rose_bush_top"
+    },
     "minecraft:prismarine_brick_slab": {
         "parent": "minecraft:block/slab",
         "LeftBottom": "minecraft:prismarine_bricks",
@@ -9954,6 +10358,10 @@
     "minecraft:light_weighted_pressure_plate_down": {
         "parent": "minecraft:block/pressure_plate_down",
         "all": "minecraft:gold_block"
+    },
+    "minecraft:nether_sprouts": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:nether_sprouts"
     },
     "minecraft:blue_candle_cake_lit": {
         "parent": "minecraft:block/template_cake_with_candle",
@@ -10059,6 +10467,10 @@
         "BackTop": "minecraft:purpur_block",
         "FrontTop": "minecraft:purpur_block"
     },
+    "minecraft:sulfur_spike_down_tip_merge": {
+        "parent": "minecraft:block/pointed_dripstone",
+        "all": "minecraft:sulfur_spike_down_tip_merge"
+    },
     "minecraft:light_gray_concrete": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:light_gray_concrete"
@@ -10147,6 +10559,10 @@
     "minecraft:packed_ice": {
         "parent": "minecraft:block/cube_all",
         "all": "minecraft:packed_ice"
+    },
+    "minecraft:torchflower_crop_stage1": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:torchflower_crop_stage1"
     },
     "minecraft:dark_oak_leaves": {
         "parent": "minecraft:block/leaves",
@@ -10289,6 +10705,10 @@
         "parent": "minecraft:block/template_trapdoor_bottom",
         "all": "minecraft:iron_trapdoor"
     },
+    "minecraft:dead_horn_coral": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:dead_horn_coral"
+    },
     "minecraft:warped_slab_top": {
         "parent": "minecraft:block/slab_top",
         "LeftBottom": "minecraft:warped_planks",
@@ -10409,6 +10829,10 @@
         "TopTop": "minecraft:bamboo_planks",
         "BackTop": "minecraft:bamboo_planks",
         "FrontTop": "minecraft:bamboo_planks"
+    },
+    "minecraft:firefly_bush": {
+        "parent": "minecraft:block/cross_emissive",
+        "all": "minecraft:firefly_bush"
     },
     "minecraft:black_terracotta": {
         "parent": "minecraft:block/cube_all",
@@ -10554,6 +10978,10 @@
         "TopTop": "minecraft:cauldron_top",
         "BackTop": "minecraft:cauldron_top",
         "FrontTop": "minecraft:cauldron_top"
+    },
+    "minecraft:red_tulip": {
+        "parent": "minecraft:block/cross",
+        "all": "minecraft:red_tulip"
     },
     "minecraft:cherry_stairs_inner": {
         "parent": "minecraft:block/inner_stairs",
